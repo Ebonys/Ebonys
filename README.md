@@ -1,20 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>五星好评</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        ul {
-            width: 500px;
-            list-style: none;
-            margin: 30px;
-        }
-        li {
-            font-size: 30px;
             color: red;
             float: left;
         }
